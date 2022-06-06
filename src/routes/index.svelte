@@ -2,4 +2,4 @@
   import image from '$lib/images/test.jpg';
 </script>
 
-Here's the test image: <img alt="A test image" src={image} />
+Here's the test image: <img alt="A test" src={image} />
